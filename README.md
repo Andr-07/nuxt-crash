@@ -1,1 +1,1 @@
-# vuex-crash
+# nuxt-crash
